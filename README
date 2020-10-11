@@ -1,0 +1,14 @@
+## Abstract
+This is a docker file to execute lscp (https://github.com/doofuslarge/lscp).
+
+## How to execute
+
+Please prepare pickle files in diff_code/; each of pickle files is
+the string of a target source code block.
+
+```
+$ bash run.sh
+```
+
+Then, you can see the result in diff_code/lscp_*
+

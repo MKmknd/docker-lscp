@@ -1,0 +1,5 @@
+*.pickle
+test.py
+
+.DS_Store
+*.swp
